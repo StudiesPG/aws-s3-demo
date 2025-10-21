@@ -1,0 +1,1 @@
+# This file exists in the structure of the resource to insert AWS Account configurations. As I am using Localstack to provide AWS resources locally, it's empty.
