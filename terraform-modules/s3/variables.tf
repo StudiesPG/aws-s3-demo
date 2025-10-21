@@ -1,3 +1,5 @@
+# File to define variables.
+
 variable "bucket_name" {
   type = string
   description = "AWS S3 bucket name"

@@ -1,3 +1,5 @@
+# Root Terragrunt file configuration generating the common_providers file.
+
 terraform{}
 
 generate "common_providers" {
